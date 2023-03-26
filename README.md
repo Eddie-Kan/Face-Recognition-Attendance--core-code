@@ -7,3 +7,5 @@ The relevant files have been placed in the "Face_Recognition_Attendance\models" 
 人脸识别签到核心代码，随便拿来练手的...  
 使用：OpenCV 4.5.4, face_detection_yunet 模型, face_recognition_sface 模型, Caffe 框架, 开发环境VS2019    
 相关文件已经放在 "Face_Recognition_Attendance\models" 目录下，代码带中文注释，祝您学习愉快（狗头）
+
+突然想起来，在计数的地方有小bug，懒得改了，变量名如果没记错是 circle 罢.（手动狗头）
