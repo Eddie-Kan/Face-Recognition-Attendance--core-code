@@ -1,4 +1,4 @@
-# Face-Recognition-Attendance-core-code
+# Face Recognition Attendance-core code
 Here's a simple exercise I did last month, involving only the procedural-oriented features of C++ .  
 Useing: OpenCV 4.5.4, face_detection_yunet model, face_recognition_sface model, Caffe framework, development environment VS2019 .  
 The relevant files have been placed in the "models" directory, These codes contain Chinese comments .  
